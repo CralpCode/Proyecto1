@@ -11,7 +11,7 @@ public class Util {
 
     public static String mensaje(int num, int num2) {
         String[] mensajes = new String[10];
-        mensajes[0] = "╔═══════Menu***********";
+        mensajes[0] = "╔═══════Menu══════*****";
         mensajes[1] = "*******Submenu*********";
         mensajes[2] = "*"+num2+")     Jugar         *";
         mensajes[3] = "*"+num2+")   Crear Mapa      *";
